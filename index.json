@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "sonnet",
+  "versions": [
+    {
+      "commit": "1c3b3e4dad22de663e992107531d2966fd7904aa",
+      "tag": "",
+      "parsed_at": "2026-11-06T17:48:34.793027+00:00"
+    }
+  ]
+}
