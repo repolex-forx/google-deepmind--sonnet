@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/sonnet/commit/1c3b3e4dad22de663e992107531d2966fd7904aa",
       "git:hexsha": "1c3b3e4dad22de663e992107531d2966fd7904aa",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T17:48:34.792320+00:00"
     },
     {
       "@id": "https://repolex.ai/r/google-deepmind/sonnet/commit/3fd7d9d342d9683df83a44ebd048ef0d5668266b",
